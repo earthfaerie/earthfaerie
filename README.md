@@ -7,5 +7,4 @@
 <p>
 - 🌸 i’m currently working on learning HTML & CSS <br>
 - 🍰 fun fact: i recently got a new sonny angel <br>
-- 🗡️ i'm most proud of my [elden ring horoscope site](https://earthfaerie.github.io/eldenringbirthday)
-</p>
+- 🗡️ i'm most proud of my <a href="https://earthfaerie.github.io/eldenringbirthday/">elden ring horoscope site</a>!
